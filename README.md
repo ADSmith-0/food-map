@@ -5,6 +5,5 @@ The countries that current work are:
 <ul>
   <li>USA</li>
   <li>Canada</li>
-  <li>Mexico</li>
   <li>Jamaica</li>
 </ul>
