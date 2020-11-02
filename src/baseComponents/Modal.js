@@ -1,5 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import Selector from './Selector';
+import URLparser from '../scripts/URLparser';
 
  function Modal(props) {
     const [cuisines, setCuisines] = useState("");
@@ -11,7 +12,7 @@ import Selector from './Selector';
             setCountry(props.country);
 
             //Fetch the JSON country.
-            fetch(`http://localhost:3000/countries/${props.country}.json`)
+            fetch(`${URLparser.getURL()}/countries/${props.country}.json`)
             .then(res => res.json())
             .then(response => setCuisines(response.cuisines));
 

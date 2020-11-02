@@ -1,10 +1,11 @@
 import React, {useState, useEffect} from 'react';
+import URLparser from '../scripts/URLparser';
 
 function Selector(props) {
     const handleClick = (event) => {
         let c_name = props.cuisines.filter(cuisine => cuisine === event.target.id)
 
-        fetch(`http://localhost:3000/cuisines/${c_name[0]}.json`)
+        fetch(`${URLparser.getURL()}/cuisines/${c_name[0]}.json`)
         .then(res => res.json())
         .then(res => {
             res.title = c_name[0];
