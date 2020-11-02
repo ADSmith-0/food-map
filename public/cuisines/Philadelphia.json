@@ -1,0 +1,21 @@
+{
+    "paragraph":"The cuisine of Philadelphia was shaped largely by the city's mixture of ethnicities, available foodstuffs and history. Certain foods have become iconic to the city. Invented in Philadelphia in the 1930s, the cheesesteak is the most well known icon of the city, and soft pretzels have become a part of Philadelphia culture. The late 19th and early 20th centuries saw the creation of two Philadelphia landmarks, the Reading Terminal Market and Italian Market. After a dismal restaurant scene during the post-war era of the 20th century, the 1970s brought a restaurant renaissance that has continued into the 21st century. Many foods and drinks associated with Philadelphia can also commonly be linked with the Pennsylvania Dutch cuisine and Italian-American cuisine. ",
+    "dishes": [
+        {
+            "name": "Cheesesteak",
+            "href": "https://www.delish.com/cooking/recipe-ideas/recipes/a54006/easy-homemade-philly-cheesesteak-recipe/"
+        },
+        {
+            "name": "Stromboli",
+            "href": "https://www.allrecipes.com/recipe/23123/stromboli/"
+        },
+        {
+            "name": "Soft pretzels",
+            "href": "https://www.cooks.com/recipe/9d5rl4hg/philadelphia-soft-pretzels.html"
+        },
+        {
+            "name": "Hoagie",
+            "href": "https://www.allrecipes.com/recipe/36621/philly-steak-sandwich/"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "paragraph":"Soul food is a style of cuisine that is associated with African Americans in the Southern United States. It uses a variety of ingredients and cooking styles, some of which are indigenous to Africa and were brought over by enslaved Africans, and others that are indigenous to Europe and derive from white American cooking influences as well as to the Americas, borrowed from Native American cuisine.",
+    "dishes": [
+        {
+            "name": "Fried chicken",
+            "href": "https://www.easysoulfoodrecipes.com/southern-pan-fried-chicken-recipe/"
+        },
+        {
+            "name": "Fried fish",
+            "href": "https://whiskitrealgud.com/southern-fried-fish-whiting-fish-recipe/"
+        },
+        {
+            "name": "Hoppin' John",
+            "href": "https://www.allrecipes.com/recipe/15931/hoppin-john/"
+        },
+        {
+            "name": "Johnnycake",
+            "href": "https://www.allrecipes.com/recipe/7123/johnnycakes/"
+        },
+        {
+            "name": "Hushpuppy",
+            "href": "https://www.tasteofhome.com/recipes/hush-puppies/"
+        },
+        {
+            "name": "Sweet potato pie",
+            "href": "https://www.allrecipes.com/recipe/12142/sweet-potato-pie-i/"
+        }
+    ]
+}

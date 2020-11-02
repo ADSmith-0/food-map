@@ -1,0 +1,32 @@
+{
+    "paragraph": "Canadian cuisine varies widely depending on the regions of the nation. The four earliest cuisines of Canada have First Nations, English, Scottish and French roots, with the traditional cuisine of English Canada closely related to British cuisine, while the traditional cuisine of French Canada has evolved from French cuisine and the winter provisions of fur traders. With subsequent waves of immigration in the 19th and 20th century from Central, Southern, and Eastern Europe, South Asia, East Asia, and the Caribbean, the regional cuisines were subsequently augmented.",
+    "ingredients": [
+        "Maple Syrup"
+    ],
+    "dishes": [
+        {
+            "name": "Poutine",
+            "href": "https://www.seasonsandsuppers.ca/authentic-canadian-poutine-recipe/"
+        },
+        {
+            "name": "Montreal-Style bagel",
+            "href": "https://cooking.nytimes.com/recipes/6795-montreal-bagels"
+        },
+        {
+            "name": "Saskatoon pie",
+            "href": "https://www.allrecipes.com/recipe/20244/saskatoon-pie/"
+        },
+        {
+            "name": "Tourtiere",
+            "href": "https://www.allrecipes.com/recipe/261983/tourtiere-french-canadian-meat-pie/"
+        },
+        {
+            "name": "Bannock",
+            "href": "https://www.foodnetwork.ca/recipe/traditional-bannock/16288/"
+        },
+        {
+            "name": "Garlic fingers",
+            "href": "https://www.foodnetwork.ca/recipe/garlic-fingers-with-donair-sauce/18597/"
+        }
+    ]
+}

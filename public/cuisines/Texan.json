@@ -1,0 +1,17 @@
+{
+    "paragraph": "Texan cuisine is the food associated with the U.S. state of Texas. Texas is a large state, and its cuisine has been influenced by a wide range of cultures, including Southern, German, Czech, British, African American, Creole/Cajun, Mexican, Native American, Asian, and to a lesser degree, Jewish and Italian. ",
+    "dishes": [
+        {
+            "name": "Texas Barbecue",
+            "href": "https://www.savoryspiceshop.com/chasingbbq/texas-recipes"
+        },
+        {
+            "name": "Kolaches",
+            "href": "https://www.allrecipes.com/recipe/268998/texas-sausage-kolaches-klobasneks/"
+        },
+        {
+            "name": "Texas Hamburger",
+            "href": "https://www.dallasnews.com/food/cooking/2020/07/03/5-fan-favorite-burger-recipes-from-texas-chefs-and-more/"
+        }
+    ]
+}

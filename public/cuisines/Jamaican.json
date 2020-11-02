@@ -1,0 +1,72 @@
+{
+    "paragraph": "Jamaican cuisine includes a mixture of cooking techniques, flavours and spices influenced by Amerindian, African, Irish, English, French, Portuguese, Spanish, Indian, Chinese and Middle Eastern people who have inhabited the island. It is also influenced by the crops introduced into the island from tropical Southeast Asia. All of which are now grown locally in Jamaica. A wide variety of seafood, tropical fruits and meats are available. Some Jamaican dishes are variations on cuisines brought to the island from elsewhere. These are often modified to incorporate local produce and spices. Others are novel or fusion and have developed locally. Popular Jamaican dishes include curry goat, fried dumplings, and ackee and saltfish. Jamaican patties along with various pastries, breads and beverages are also popular.",
+    "ingredients": [
+        "Solomon Gundy"
+    ],
+    "dishes": [
+        {
+            "name": "Jerk chicken",
+            "href": "https://www.yummly.co.uk/recipe/Jamaican-Jerk-Chicken-441641?prm-v1"
+        },
+        {
+            "name": "Curry goat",
+            "href": "https://www.allrecipes.com/recipe/246087/jamaican-curried-goat/"
+        },
+        {
+            "name": "Ackee and saltfish",
+            "href": "https://www.yummly.co.uk/recipe/Ackee-and-Saltfish-440514?prm-v1"
+        },
+        {
+            "name": "Callaloo",
+            "href": "http://www.jamaican-traditions.com/callaloo-recipe.html"  
+        },
+        {
+            "name": "Run down",
+            "href": "https://www.africanbites.com/jamaican-run-2/"  
+        },
+        {
+            "name": "Escovitch fish",
+            "href": "https://jamaicans.com/escovich/"  
+        },
+        {
+            "name": "Bammy",
+            "href": "https://healthiersteps.com/recipe/bammy/"  
+        },
+        {
+            "name": "Jamaican patties",
+            "href": "https://www.allrecipes.com/recipe/48540/jamaican-beef-patties/"  
+        },
+        {
+            "name": "Pepperpot soup",
+            "href": "https://jamaicans.com/jamaican-pepperpot-soup-recipe/"
+        },
+        {
+            "name": "Jamaican corn soup",
+            "href": "https://cooklikeajamaican.com/amp/jamaican-corn-soup/"
+        },
+        {
+            "name": "Brown stew chicken",
+            "href": "https://www.allrecipes.com/recipe/281733/jamaican-brown-stew-chicken/"
+        },
+        {
+            "name": "Jamaican oxtail stew",
+            "href": "https://www.delish.com/cooking/recipe-ideas/a25837513/jamaican-oxtail-stew-recipe/"
+        },
+        {
+            "name": "Jamaican oxtail",
+            "href": "https://www.allrecipes.com/recipe/245474/jamaican-oxtail/"
+        },
+        {
+            "name": "Jamaican porridge",
+            "href": "https://www.jamaican-recipes.com/jamaicanporridge.html"
+        },
+        {
+            "name": "Jamaican fried dumplings",
+            "href": "https://www.allrecipes.com/recipe/139948/jamaican-fried-dumplings/"
+        },
+        {
+            "name": "...And many more",
+            "href": "https://en.wikipedia.org/wiki/Jamaican_cuisine#Popular_dishes"
+        }
+    ]
+}

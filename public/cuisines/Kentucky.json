@@ -1,0 +1,21 @@
+{
+    "paragraph": "Though Kentucky's cuisine is generally very similar to that of traditional Southern cuisine, it does differ with some unique dishes, especially in Louisville where the Hot Brown and Derby pie (a variation of pecan pie, common throughout the American South), originated.",
+    "dishes": [
+        {
+            "name": "Burgoo",
+            "href": "https://www.allrecipes.com/recipe/221096/traditional-kentucky-burgoo/"
+        },
+        {
+            "name": "Hot brown sandwich",
+            "href": "https://www.southernliving.com/recipes/kentucky-hot-brown-sandwich"
+        },
+        {
+            "name": "Stack cake",
+            "href": "https://www.kentuckytourism.com/culinary/recipes/apple-stack-cake"
+        },
+        {
+            "name": "Derby pie",
+            "href": "https://www.allrecipes.com/recipe/258238/derby-pie/"
+        }
+    ]
+}

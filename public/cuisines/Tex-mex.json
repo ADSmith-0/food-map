@@ -1,0 +1,13 @@
+{
+    "paragraph": "Tex-Mex cuisine (from Texan and Mexican) is an American regional cuisine that derives from the culinary creations of the Tejano people of Texas. It has spread from border states such as Texas and others in the Southwestern United States to the rest of the country as well as Canada. Tex-Mex is most popular in Texas and neighboring areas, especially nearby states in both the US and Mexico. It is a subtype of Southwestern cuisine found in the American Southwest. Tex-Mex cuisine is characterized by its heavy use of shredded cheese, meat (particularly beef, pork and chicken), beans, peppers and spices, in addition to flour tortillas.",
+    "dishes": [
+        {
+            "name": "Chile con queso",
+            "href": "https://www.allrecipes.com/recipe/185796/authentic-chile-con-queso/"
+        },
+        {
+            "name": "Burrito",
+            "href": "https://www.allrecipes.com/article/our-best-burrito-recipes/"
+        }
+    ]
+}

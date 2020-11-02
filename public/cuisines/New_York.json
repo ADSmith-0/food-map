@@ -1,0 +1,25 @@
+{
+    "paragraph": "The cuisine of New York City comprises many cuisines belonging to various ethnic groups that have entered the United States through the city. Almost all ethnic cuisines are well represented in New York, both within and outside the various ethnic neighborhoods.",
+    "dishes": [
+        {
+            "name": "Hot Dog",
+            "href": "https://www.thespruceeats.com/new-york-hot-dogs-recipe-333560"
+        },
+        {
+            "name": "New York-style pizza",
+            "href": "https://www.allrecipes.com/recipe/80800/new-york-style-pizza/"
+        },
+        {
+            "name": "New York-style Cheesecake",
+            "href": "https://www.allrecipes.com/recipe/221142/new-york-style-cheesecake/"
+        },
+        {
+            "name": "Black and white cookies",
+            "href": "https://www.allrecipes.com/recipe/276641/black-and-white-cookies/"
+        },
+        {
+            "name": "...And many more",
+            "href": "https://en.wikipedia.org/wiki/Cuisine_of_New_York_City#Food_identified_with_New_York"
+        }
+    ]
+}
